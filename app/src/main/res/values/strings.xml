@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidOTP</string>
+    <string name="otp_title">Please enter the 6 digit verification code</string>
+    <string name="otp_button_text">VERIFY</string>
+    <string name="resend_msg">Didn’t receive the OTP?</string>
+    <string name="resend_again_msg">Resend again</string>
+    <string name="sent_to_91_xxxx_xxx">sent to +91 XXXX XXX</string>
 </resources>

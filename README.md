@@ -1,3 +1,3 @@
 # OTPActivity
 
-![alt] (http://iamrohitsuthar.000webhostapp.com/android/AndroidOTP/to/android_otp_github.png)
+![alt] (http://iamrohitsuthar.000webhostapp.com/android/AndroidOTP/android_otp_github.png)

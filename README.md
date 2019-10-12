@@ -2,7 +2,7 @@
 
 ## OTP activity layout in android with java code
 
-<img src="http://iamrohitsuthar.000webhostapp.com/android/AndroidOTP/android_otp_github.png" width="380" height="620">
+<img src="http://iamrohitsuthar.000webhostapp.com/android/AndroidOTP/android_otp_github.png" width="350" height="620">
 
 
 Features:
